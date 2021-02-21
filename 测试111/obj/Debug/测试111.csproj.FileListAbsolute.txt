@@ -1,0 +1,10 @@
+C:\迅雷下载\测试111\bin\Debug\测试111.exe.config
+C:\迅雷下载\测试111\bin\Debug\测试111.exe
+C:\迅雷下载\测试111\bin\Debug\测试111.pdb
+C:\迅雷下载\测试111\obj\Debug\测试111.csprojAssemblyReference.cache
+C:\迅雷下载\测试111\obj\Debug\测试111.Properties.Resources.resources
+C:\迅雷下载\测试111\obj\Debug\测试111.csproj.GenerateResource.cache
+C:\迅雷下载\测试111\obj\Debug\测试111.exe
+C:\迅雷下载\测试111\obj\Debug\测试111.pdb
+C:\迅雷下载\测试111\obj\Debug\测试111.FORM.resources
+C:\迅雷下载\测试111\obj\Debug\测试111.Form2.resources

@@ -1,0 +1,12 @@
+﻿  Tree.cpp
+C:\C++\基础语法学习\数据结构代码实现\树的表示\Heap.h(27,1): error C2679: 二进制“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+C:\C++\基础语法学习\数据结构代码实现\树的表示\HUffman.h(12,1): message : 可能是“HTreeNode &HTreeNode::operator =(HTreeNode &&)”
+C:\C++\基础语法学习\数据结构代码实现\树的表示\HUffman.h(12,1): message : 或    “HTreeNode &HTreeNode::operator =(const HTreeNode &)”
+C:\C++\基础语法学习\数据结构代码实现\树的表示\Heap.h(27,1): message : 尝试匹配参数列表“(T, int)”时
+          with
+          [
+              T=HTreeNode
+          ]
+C:\C++\基础语法学习\数据结构代码实现\树的表示\Heap.h(23): message : 在编译 类 模板 成员函数“HeapStruct<HTreeNode>::HeapStruct(int)”时
+C:\C++\基础语法学习\数据结构代码实现\树的表示\Tree.cpp(70): message : 查看对正在编译的函数 模板 实例化“HeapStruct<HTreeNode>::HeapStruct(int)”的引用
+C:\C++\基础语法学习\数据结构代码实现\树的表示\Tree.cpp(70): message : 查看对正在编译的 类 模板 实例化“HeapStruct<HTreeNode>”的引用

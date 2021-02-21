@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "循环10", "循环10.vcxproj", "{0E31132D-7049-4536-9020-891EA51B0F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Debug|x64.ActiveCfg = Debug|x64
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Debug|x64.Build.0 = Debug|x64
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Debug|x86.Build.0 = Debug|Win32
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Release|x64.ActiveCfg = Release|x64
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Release|x64.Build.0 = Release|x64
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Release|x86.ActiveCfg = Release|Win32
+		{0E31132D-7049-4536-9020-891EA51B0F0D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4650447-68FC-4982-A9C4-AF5F116AAF52}
+	EndGlobalSection
+EndGlobal

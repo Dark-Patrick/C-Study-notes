@@ -1,0 +1,2 @@
+C:\C++\基础语法学习\数据结构代码实现\Project1\Debug\Project1.exe
+C:\C++\基础语法学习\数据结构代码实现\Project1\Debug\Project1.pdb

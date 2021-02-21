@@ -1,0 +1,6 @@
+﻿  源.cpp
+C:\迅雷下载\继承与派生小结\基类.h(1,9): warning C4068: 未知的 pragma
+C:\迅雷下载\继承与派生小结\基类.h(16,27): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+C:\迅雷下载\继承与派生小结\基类.h(1,9): warning C4068: 未知的 pragma
+C:\迅雷下载\继承与派生小结\派生类.h(20,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  继承与派生小结.vcxproj -> C:\迅雷下载\继承与派生小结\Debug\继承与派生小结.exe

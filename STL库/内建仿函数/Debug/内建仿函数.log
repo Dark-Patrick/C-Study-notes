@@ -1,0 +1,31 @@
+﻿  源.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(238,1): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(237): message : 在编译 类 模板 成员函数“bool std::less<void>::operator ()<const _Ty&,std::_Vb_reference<std::_Wrap_alloc<std::allocator<std::_Vbase>>>>(_Ty1,_Ty2 &&) noexcept(<expr>) const”时
+          with
+          [
+              _Ty=bool,
+              _Ty1=const bool &,
+              _Ty2=std::_Vb_reference<std::_Wrap_alloc<std::allocator<std::_Vbase>>>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(3620): message : 查看对正在编译的函数 模板 实例化“bool std::binary_search<_FwdIt,_Ty,std::less<void>>(_FwdIt,_FwdIt,const _Ty &,_Pr)”的引用
+          with
+          [
+              _FwdIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _Ty=bool,
+              _Pr=std::less<void>
+          ]
+C:\C++\基础语法学习\STL库\内建仿函数\源.cpp(62): message : 查看对正在编译的函数 模板 实例化“bool std::binary_search<std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,bool>(_FwdIt,_FwdIt,const _Ty &)”的引用
+          with
+          [
+              _FwdIt=std::_Vb_iterator<std::_Wrap_alloc<std::allocator<std::_Vbase>>>,
+              _Ty=bool
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(240,1): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\algorithm(3614): message : 查看对正在编译的函数 模板 实例化“bool std::less<void>::operator ()<const _Ty&,std::_Vb_reference<std::_Wrap_alloc<std::allocator<std::_Vbase>>>>(_Ty1,_Ty2 &&) noexcept const”的引用
+          with
+          [
+              _Ty=bool,
+              _Ty1=const bool &,
+              _Ty2=std::_Vb_reference<std::_Wrap_alloc<std::allocator<std::_Vbase>>>
+          ]
+  内建仿函数.vcxproj -> C:\C++\基础语法学习\STL库\内建仿函数\Debug\内建仿函数.exe
